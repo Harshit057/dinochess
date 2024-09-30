@@ -5,7 +5,7 @@ const dinoFaces = {
     knight: '🦤',
     bishop: '🦖',
     queen: '🦕',
-    king: '🦖'
+    King: '🦖'
 };
 
 // Initial board setup using dinosaur pieces
