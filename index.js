@@ -2,7 +2,7 @@
 const dinoFaces = {
     pawn: '🦖',
     rook: '🦕',
-    knight: '🦴',
+    knight: '🦤',
     bishop: '🦖',
     queen: '🦕',
     king: '🦖'
