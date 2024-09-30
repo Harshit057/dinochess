@@ -1,6 +1,6 @@
 // Dinosaur faces for the pieces (these can be custom image paths or emoji faces)
 const dinoFaces = {
-    pawn: '🦖',
+    Pawn: '🦖',
     Rook: '🦕',
     knight: '🦤',
     Bishop: '🦖',
