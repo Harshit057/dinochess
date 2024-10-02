@@ -17,7 +17,7 @@ body {
 
 .chess-board div {
     width: 82px;
-    height: 80px;
+    height: 82px;
     display: flex;
     justify-content: center;
     align-items: center;
